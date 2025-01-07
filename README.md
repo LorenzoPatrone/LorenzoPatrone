@@ -2,6 +2,8 @@
 
 **💻 `Computer Science Student`**
 
+
+
 ---
 
 ### 🪛 Languages and Tools
@@ -20,8 +22,10 @@
   <br/><br/><br/>
 </p>
 
-#
+---
 
-<br/>
+### 📊 Stats
 
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopatrone&show_icons=true&theme=github_dark)
+
+---
