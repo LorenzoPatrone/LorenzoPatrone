@@ -26,6 +26,6 @@
 
 ### 📊 Stats
 
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopatrone&show_icons=true&theme=shadow_blue)
+![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopatrone&show_icons=true&theme=graywhite)
 
 ---
