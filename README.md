@@ -21,4 +21,4 @@
 
 ###
 
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopatrone&show_icons=true&theme=dracula)
+![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopatrone&show_icons=true&theme=dark)
